@@ -1,0 +1,6 @@
+{
+  "name": "EventHub Manipur",
+  "description": "EventHub Manipur connecting people with local event service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
